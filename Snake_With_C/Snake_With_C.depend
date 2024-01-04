@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1704371263 source:c:\users\enest\onedrive\masaüstü\c\snake_with_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
